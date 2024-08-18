@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.mrpt.robotic_arm_kinematics.desktop</id>
+  <metadata_license>MIT</metadata_license>
+  <name>robotic-arm-kinematics</name>
+  <summary>GUI to practice and learn the Denavit-Hartenberg (DH) parameters</summary>
+  <description>
+    <p>GUI to practice and learn the Denavit-Hartenberg (DH) parameters for robotic arm manipulators.</p>
+  </description>
+  <launchable type="desktop-id">robotic_arm_kinematics.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+        <caption>Application screenshot</caption>
+        <image>https://static.mrpt.org/screenshots/robotic-arm-kinematics.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.mrpt.org/</url>
+  <update_contact>joseluisblancoc@gmail.com</update_contact>
+</component>
