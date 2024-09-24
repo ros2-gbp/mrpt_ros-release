@@ -1,0 +1,13 @@
+Source: ros-humble-mrpt-libros-bridge
+Section: misc
+Priority: optional
+Maintainer: Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, ffmpeg, freeglut3-dev, libassimp-dev, libavcodec-dev, libavformat-dev, libavutil-dev, libfreenect-dev, libgl1-mesa-dev, libglfw3-dev, libglu1-mesa-dev, libjpeg-dev, liboctomap-dev, libopencv-dev, libopenni2-dev, libpcap0.8-dev, libswscale-dev, libtinyxml2-dev, libudev-dev, libusb-1.0-0-dev, libwxgtk3.0-gtk3-dev, libxrandr-dev, libxxf86vm-dev, pkg-config, pybind11-dev, python3-pip, ros-humble-ament-cmake, ros-humble-cv-bridge, ros-humble-geometry-msgs, ros-humble-mrpt-libmaps, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-ros-environment, ros-humble-rosbag2-storage, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-stereo-msgs, ros-humble-tf2, wx-common, zlib1g-dev, ros-humble-ros-workspace
+Homepage: https://www.mrpt.org/
+Standards-Version: 3.9.2
+
+Package: ros-humble-mrpt-libros-bridge
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-cv-bridge, ros-humble-geometry-msgs, ros-humble-mrpt-libmaps, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-stereo-msgs, ros-humble-tf2, ros-humble-ros-workspace
+Description: Mobile Robot Programming Toolkit (MRPT) libraries (ros2bridge C++ library).
+ This package contains: mrpt-ros2bridge
