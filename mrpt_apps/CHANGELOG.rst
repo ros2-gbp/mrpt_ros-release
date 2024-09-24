@@ -2,6 +2,10 @@
 Changelog for package mrpt_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.1 (2024-09-24)
+-------------------
+* SceneViewer3D: New button to enable shadow casting.
+
 2.13.7 (2024-08-23)
 -------------------
 
