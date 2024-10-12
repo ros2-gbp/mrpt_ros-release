@@ -2,6 +2,9 @@
 Changelog for package mrpt_libmaps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.3 (2024-10-12)
+-------------------
+
 2.14.2 (2024-10-05)
 -------------------
 * Add support for override_mrpt_version for local builds
