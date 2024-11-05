@@ -2,6 +2,9 @@
 Changelog for package mrpt_libnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.5 (2024-11-05)
+-------------------
+
 2.14.4 (2024-10-19)
 -------------------
 * mrpt::nav::CAbstractPTGBasedReactive: Missing heading information in recently-added TP-Space targets as TPose2D.
