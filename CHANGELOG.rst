@@ -2,6 +2,9 @@
 Changelog for package mrpt_libros_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.5 (2024-11-05)
+-------------------
+
 2.14.4 (2024-10-19)
 -------------------
 * package.xml and cmake: Fix generation of rosbag2rawlog for ROS 1 version of package mrpt_apps
