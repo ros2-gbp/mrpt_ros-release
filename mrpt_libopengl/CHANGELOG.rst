@@ -2,6 +2,10 @@
 Changelog for package mrpt_libopengl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.7 (2024-12-09)
+-------------------
+* mrpt::opengl::Texture now caches "texture names" (OpenGL texture IDs) via image data, boosting performance of MVSim boot up time.
+
 2.14.5 (2024-11-05)
 -------------------
 
