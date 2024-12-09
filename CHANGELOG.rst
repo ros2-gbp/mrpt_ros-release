@@ -2,6 +2,10 @@
 Changelog for package mrpt_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.7 (2024-12-09)
+-------------------
+* rosbag2rawlog (ROS1): Implement conversion of NavSatFix -> mrpt::obs::CObservationGPS
+
 2.14.5 (2024-11-05)
 -------------------
 * GridmapNavSimul: Loading a different gridmap won't update the map visualization.
