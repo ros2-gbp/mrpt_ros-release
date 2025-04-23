@@ -1,0 +1,51 @@
+ros-kilted-mrpt-libobs (2.14.7-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Mon, 09 Dec 2024 06:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.14.5-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Tue, 05 Nov 2024 06:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.14.4-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 19 Oct 2024 05:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.14.3-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 12 Oct 2024 05:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.14.2-2noble) noble; urgency=high
+
+  * Add support for override_mrpt_version for local builds
+  * Contributors: Jose Luis Blanco-Claraco
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Sat, 05 Oct 2024 05:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.14.1-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Tue, 24 Sep 2024 05:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.13.7-2noble) noble; urgency=high
+
+
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Fri, 23 Aug 2024 05:00:00 -0000
+
+ros-kilted-mrpt-libobs (2.13.6-2noble) noble; urgency=high
+
+  * Add lib suffix to package names
+  * Contributors: Jose Luis Blanco-Claraco
+
+ -- Jose-Luis Blanco-Claraco <joseluisblancoc@gmail.com>  Wed, 14 Aug 2024 05:00:00 -0000
+
+
