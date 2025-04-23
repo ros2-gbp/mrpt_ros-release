@@ -1,1 +1,1 @@
-{"base": "9c672b20b", "parent": "debian/rolling/mrpt_libros_bridge", "previous": "aa4ac92ad", "trim": "", "trimbase": ""}
+{"base": "f9795be1b183", "parent": "debian/kilted/mrpt_libros_bridge", "previous": "26fd7b92c30c", "trim": "", "trimbase": ""}
