@@ -1,1 +1,1 @@
-{"base": "ffcfbecf6", "parent": "debian/rolling/mrpt_libobs", "previous": "7d865da7e", "trim": "", "trimbase": ""}
+{"base": "835779e918d1", "parent": "debian/kilted/mrpt_libobs", "previous": "9a264275254f", "trim": "", "trimbase": ""}
