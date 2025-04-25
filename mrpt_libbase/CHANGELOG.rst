@@ -2,6 +2,9 @@
 Changelog for package mrpt_libbase
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.8 (2025-04-25)
+-------------------
+
 2.14.7 (2024-12-09)
 -------------------
 * `mrpt-*-config.cmake` files now enforce the search of cmake dependencies in CONFIG mode, to avoid being foolish by deprecated `FindXXX()` lying around.
