@@ -1,3 +1,40 @@
+## mrpt_ros (humble) - 2.14.8-1
+
+The packages in the `mrpt_ros` repository were released into the `humble` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r humble -y mrpt_ros` on `Fri, 25 Apr 2025 09:15:12 -0000`
+
+These packages were released:
+- `mrpt_apps`
+- `mrpt_libapps`
+- `mrpt_libbase`
+- `mrpt_libgui`
+- `mrpt_libhwdrivers`
+- `mrpt_libmaps`
+- `mrpt_libmath`
+- `mrpt_libnav`
+- `mrpt_libobs`
+- `mrpt_libopengl`
+- `mrpt_libposes`
+- `mrpt_libros_bridge`
+- `mrpt_libslam`
+- `mrpt_libtclap`
+
+Version of package(s) in repository `mrpt_ros`:
+
+- upstream repository: https://github.com/MRPT/mrpt_ros.git
+- release repository: https://github.com/ros2-gbp/mrpt_ros-release.git
+- rosdistro version: `2.14.7-1`
+- old version: `2.14.7-1`
+- new version: `2.14.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_ros (rolling) - 2.14.7-1
 
 The packages in the `mrpt_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -y -r rolling mrpt_ros` on `Mon, 09 Dec 2024 08:59:53 -0000`
