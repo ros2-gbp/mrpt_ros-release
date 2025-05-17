@@ -2,6 +2,10 @@
 Changelog for package mrpt_libros_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.9 (2025-05-17)
+-------------------
+* FIX: build against latest TF2 version.
+
 2.14.8 (2025-04-25)
 -------------------
 
