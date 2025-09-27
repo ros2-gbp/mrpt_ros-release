@@ -2,7 +2,7 @@
 Changelog for package mrpt_libhwdrivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.14.13 (2025-09-27)
+2.14.14 (2025-09-27)
 --------------------
 * Fix build against ffmpeg 8.0 (Debian bug #1115064)
 
