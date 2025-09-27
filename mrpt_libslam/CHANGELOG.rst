@@ -2,6 +2,10 @@
 Changelog for package mrpt_libslam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.13 (2025-09-27)
+--------------------
+* Fix potential race conditions in TBB-parallel particle filters with 2D gridmap.
+
 2.14.12 (2025-08-31)
 --------------------
 
