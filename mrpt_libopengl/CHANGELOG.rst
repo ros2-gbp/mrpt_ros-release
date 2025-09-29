@@ -2,6 +2,10 @@
 Changelog for package mrpt_libopengl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.15 (2025-09-29)
+--------------------
+* Fix regressions from former release.
+
 2.14.14 (2025-09-27)
 --------------------
 * Fixed opengl unit tests against crashes under some build flags.
