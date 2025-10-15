@@ -2,6 +2,11 @@
 Changelog for package mrpt_libbase
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.16 (2025-10-15)
+--------------------
+* mrpt_rtti: More informative error message when calling clone() on a class without copy constructor.
+* Fix deprecated warnings in WorkerThreadsPool.
+
 2.14.15 (2025-09-29)
 --------------------
 
