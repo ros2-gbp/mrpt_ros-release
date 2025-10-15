@@ -2,6 +2,10 @@
 Changelog for package mrpt_libopengl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.16 (2025-10-15)
+--------------------
+* Fix mrpt::opengl::CPointCloudColoured throwing if the source cloud map may have color and color/intensity channels are actually empty.
+
 2.14.15 (2025-09-29)
 --------------------
 * Fix regressions from former release.
