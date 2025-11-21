@@ -2,6 +2,9 @@
 Changelog for package mrpt_libtclap
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.2 (2025-11-21)
+-------------------
+
 2.15.1 (2025-10-29)
 -------------------
 * Remove obsolete BUILD_ros2bridge cmake variable
