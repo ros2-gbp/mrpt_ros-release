@@ -2,6 +2,9 @@
 Changelog for package mrpt_libgui
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.7 (2026-02-03)
+-------------------
+
 2.15.6 (2026-01-29)
 -------------------
 * nanogui: Updated to new version (DockablePanel)
