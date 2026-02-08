@@ -1,3 +1,39 @@
+## mrpt_ros (kilted) - 2.15.8-1
+
+The packages in the `mrpt_ros` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -y -r kilted mrpt_ros` on `Sun, 08 Feb 2026 18:25:11 -0000`
+
+These packages were released:
+- `mrpt_apps`
+- `mrpt_libapps`
+- `mrpt_libbase`
+- `mrpt_libgui`
+- `mrpt_libhwdrivers`
+- `mrpt_libmaps`
+- `mrpt_libmath`
+- `mrpt_libnav`
+- `mrpt_libobs`
+- `mrpt_libopengl`
+- `mrpt_libposes`
+- `mrpt_libslam`
+- `mrpt_libtclap`
+
+Version of package(s) in repository `mrpt_ros`:
+
+- upstream repository: https://github.com/MRPT/mrpt_ros.git
+- release repository: https://github.com/ros2-gbp/mrpt_ros-release.git
+- rosdistro version: `2.15.7-1`
+- old version: `2.15.7-1`
+- new version: `2.15.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_ros (jazzy) - 2.15.8-1
 
 The packages in the `mrpt_ros` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -y -r jazzy mrpt_ros` on `Sun, 08 Feb 2026 18:20:03 -0000`
