@@ -2,6 +2,12 @@
 Changelog for package mrpt_libopengl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.11 (2026-03-12)
+--------------------
+
+2.15.9 (2026-03-12)
+-------------------
+
 2.15.8 (2026-02-08)
 -------------------
 * New class mrpt::opengl::CAnimatedAssimpModel for 3D models with animations.
