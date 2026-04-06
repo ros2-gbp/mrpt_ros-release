@@ -2,6 +2,10 @@
 Changelog for package mrpt_libmaps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.12 (2026-04-06)
+--------------------
+* CRITICAL FIX: safer multithread handling of string_views in CGenericPointsMap
+
 2.15.11 (2026-03-12)
 --------------------
 
