@@ -2,6 +2,10 @@
 Changelog for package mrpt_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.14 (2026-04-20)
+--------------------
+* Fix conflict in executable names (Debian bug #1133167)
+
 2.15.13 (2026-04-14)
 --------------------
 
