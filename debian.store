@@ -1,1 +1,1 @@
-{"base": "40544e8cb478", "parent": "debian/rolling/mrpt_libposes", "previous": "1d484bc819ec", "trim": "", "trimbase": ""}
+{"base": "0b684a1dc", "parent": "debian/lyrical/mrpt_libposes", "previous": "d9ea26e86", "trim": "", "trimbase": ""}
