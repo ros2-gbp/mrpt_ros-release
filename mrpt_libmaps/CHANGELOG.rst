@@ -2,6 +2,10 @@
 Changelog for package mrpt_libmaps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.15 (2026-05-05)
+--------------------
+* BUGFIX in mrpt::obs::recolorize3Dpc() when using uint8 RGB fields.
+
 2.15.14 (2026-04-20)
 --------------------
 
