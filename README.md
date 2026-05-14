@@ -1,3 +1,39 @@
+## mrpt_ros (jazzy) - 2.15.18-1
+
+The packages in the `mrpt_ros` repository were released into the `jazzy` distro by running `/mnt/linux/home/jlblanco/code/bloom-venv/bin/bloom-release -r jazzy -y mrpt_ros` on `Thu, 14 May 2026 21:36:29 -0000`
+
+These packages were released:
+- `mrpt_apps`
+- `mrpt_libapps`
+- `mrpt_libbase`
+- `mrpt_libgui`
+- `mrpt_libhwdrivers`
+- `mrpt_libmaps`
+- `mrpt_libmath`
+- `mrpt_libnav`
+- `mrpt_libobs`
+- `mrpt_libopengl`
+- `mrpt_libposes`
+- `mrpt_libslam`
+- `mrpt_libtclap`
+
+Version of package(s) in repository `mrpt_ros`:
+
+- upstream repository: https://github.com/MRPT/mrpt_ros.git
+- release repository: https://github.com/ros2-gbp/mrpt_ros-release.git
+- rosdistro version: `2.15.17-1`
+- old version: `2.15.17-1`
+- new version: `2.15.18-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_ros (humble) - 2.15.18-1
 
 The packages in the `mrpt_ros` repository were released into the `humble` distro by running `/mnt/linux/home/jlblanco/code/bloom-venv/bin/bloom-release -r humble -y mrpt_ros` on `Thu, 14 May 2026 21:31:42 -0000`
