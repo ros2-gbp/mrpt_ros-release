@@ -2,6 +2,22 @@
 Changelog for package mrpt_libmaps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.18 (2026-05-12)
+--------------------
+* FIX: update octomap target names for newer version upstream.
+
+2.15.17 (2026-05-09)
+--------------------
+* FIX: upgrade vendored octomap version to latest devel commit to fix cmake errors in Ubuntu 26.04+.
+
+2.15.16 (2026-05-07)
+--------------------
+* FIX: Update vendored octomap to v1.10.0 to prevent cmake errors in Ubuntu 26.04
+
+2.15.15 (2026-05-05)
+--------------------
+* BUGFIX in mrpt::obs::recolorize3Dpc() when using uint8 RGB fields.
+
 2.15.14 (2026-04-20)
 --------------------
 
