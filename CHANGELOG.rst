@@ -2,6 +2,11 @@
 Changelog for package mrpt_libmath
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.19 (2026-07-03)
+--------------------
+* fix(math): harden KDTreeCapable save/load index against stale-flag and partial-failure bugs
+* feat(math): KDTreeCapable save/load of the KD-tree index (2D and 3D)
+
 2.15.18 (2026-05-12)
 --------------------
 
