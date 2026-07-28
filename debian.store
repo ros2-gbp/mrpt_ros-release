@@ -1,1 +1,1 @@
-{"base": "c55fa0108", "parent": "debian/rolling/mrpt_libhwdrivers", "previous": "5564d9972", "trim": "", "trimbase": ""}
+{"base": "5b38fdbcc", "parent": "debian/rolling/mrpt_libhwdrivers", "previous": "c46eb9329", "trim": "", "trimbase": ""}
